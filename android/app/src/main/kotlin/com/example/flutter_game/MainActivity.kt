@@ -1,4 +1,4 @@
-package com.example.flutter_game
+package com.varoot.hangman_game
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-# flutter_game
+# Hangman Game
 
 A new Flutter project.
 
